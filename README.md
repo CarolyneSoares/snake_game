@@ -1,23 +1,36 @@
-I am very happy to show you the course project I took on the Udemy Course about Python, taught by Angela Yu. It's a snake game that reminded me a lot of the portable mini game called "BRICK GAME, aaahh that sound so nostalgic...But continuing, in this project I was able to put into practice:
+Claro, aqui está uma versão adaptada do texto para você colocar no GitHub:
 
-1. Object-Oriented Programming (OOP)
+---
 
-2. Class and Object Creation
+## Snake Game Project
 
-3.Instance Initialization
+I am very happy to share with you the course project I completed as part of Angela Yu's Python course on Udemy. This project is a snake game that brought back memories of the portable mini game "BRICK GAME"—ah, such nostalgic sounds...
 
-4.List Manipulation
+In this project, I was able to put into practice:
 
-5. Loop Control
+- **Object-Oriented Programming (OOP)**
+- **Class and Object Creation**
+- **Instance Initialization**
+- **List Manipulation**
+- **Loop Control**
+- **Conditional Statements**
+- **Event Handling**
+- **Randomization**
+- **Graphics and Animation**
+- **Game Logic Implementation**
 
-6. Conditional Statements
+### Key Features:
 
-7.Event Handling
+- **OOP Principles**: The game is built using object-oriented programming, making the code modular and reusable.
+- **Class and Object Creation**: Different classes were created for the snake, food, and scoreboard.
+- **Instance Initialization**: Proper initialization of instances for game components.
+- **List Manipulation**: Managing the snake segments using list operations.
+- **Loop Control**: Implementing the game loop to keep the game running.
+- **Conditional Statements**: Handling game events and conditions such as collisions and scoring.
+- **Event Handling**: Capturing user input to control the snake's movement.
+- **Randomization**: Randomly placing the food on the screen.
+- **Graphics and Animation**: Using the Turtle graphics module to create animations and game graphics.
+- **Game Logic Implementation**: Combining all these concepts to create a functional and enjoyable game.
 
-8.Randomization
-
-9.Graphics and Animation
-
-10. Game Logic Implementation
 
 
