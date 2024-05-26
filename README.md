@@ -1,7 +1,3 @@
-Claro, aqui está uma versão adaptada do texto para você colocar no GitHub:
-
----
-
 ## Snake Game Project
 
 I am very happy to share with you the course project I completed as part of Angela Yu's Python course on Udemy. This project is a snake game that brought back memories of the portable mini game "BRICK GAME"—ah, such nostalgic sounds...
